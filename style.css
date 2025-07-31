@@ -69,10 +69,11 @@ header>h1 {
     justify-content: center;
     align-items: center;
     gap: 5px;
+    font-size: 25px;
 }
 
 header .logo {
-    width: 45px;
+    width: 40px;
     height: 30px;
     object-fit: contain;
     font-size: 30px;
@@ -95,9 +96,10 @@ body.dark #errorText {
 header>a {
     text-decoration: none;
     color: rgb(255, 255, 255);
-    font-weight: 500;
+    font-weight: 400;
     background-color: rgb(0, 0, 0);
     padding: 10px;
+    font-size: 15px;
     border-radius: 20px;
     gap: 5px;
     transition: .4s;
